@@ -1,2 +1,4 @@
-hello
-hello all
+python3 <<EOF
+print("Hello")
+EOF
+
